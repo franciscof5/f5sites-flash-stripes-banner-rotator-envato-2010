@@ -1,0 +1,79 @@
+<f5-banner-header-image-rotator>
+	<config
+		stage_width="590"
+		stage_height="300"
+		
+		seconds_to_next_frame = "0.05"
+		default_transition="randomize"
+		link_window_method="_blank"
+		load_message="loading images..."
+		
+		button_show="true"
+		button_width="105"
+		
+		subtitle_show="true"
+		
+		stripes_number_of="15"
+		stripes_color="FFFFFF"
+		stripes_alpha="30"
+		
+		transition_text_show="true"
+		transition_text_font_color="CCCCCC"
+		transition_text_font_size = "45"
+	/>
+	
+	<itens>
+		
+		<item
+		image_location="include/images/image1.jpg" 
+		text_button="F5 Stripes Rotator" 
+		text_transition="Introduce you" 
+		text_subtitle="F5 Stripes Rotator: A beautifull and simply way to show information!"
+		item_color="CCCCCC"
+		seconds_on_stage="8"
+		link="http://www.f5sites.com"
+		/>
+				
+		<item
+		image_location="include/images/image2.jpg" 
+		text_button="Flexible design!" 
+		text_transition="Fit in any design!" 
+		text_subtitle="It's simple design fits slightly in any design, you can hide subtitles and buttons!"
+		item_color="009966"
+		seconds_on_stage="8"
+		link="http://www.f5sites.com"
+		/>
+				
+		<item
+		image_location="include/images/image3.jpg" 
+		text_button="Customize with XML" 
+		text_transition="You have a lot of options!" 
+		text_subtitle="Number, color and alpha of stripes, hide elements... more than 15 options!"
+		item_color="009966"
+		seconds_on_stage="10"
+		link="http://www.f5sites.com"
+		/>
+				
+		<item
+		image_location="include/images/image4.jpg" 
+		text_button="Interact with Banner" 
+		text_transition="Interactive concept!" 
+		text_subtitle="Click on subtitle and it's hide, click on selected button and it pauses!"
+		item_color="009966"
+		seconds_on_stage="8"
+		link="http://www.f5sites.com"
+		/>
+		
+		<item
+		image_location="include/images/image5.jpg" 
+		text_button="Friendly support" 
+		text_transition="Any questions?" 
+		text_subtitle="Fell free to ask us any question, we are glad to help!"
+		seconds_on_stage="8"
+		link="http://www.f5sites.com"
+		/>
+	</itens>
+</f5-banner-header-image-rotator>
+
+
+
